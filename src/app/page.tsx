@@ -329,7 +329,7 @@ export default function Home() {
                 <div className="relative w-full h-64 overflow-hidden bg-zinc-800">
                   <div className="absolute inset-0 bg-gradient-to-t from-zinc-900/90 to-transparent z-10"></div>
                   <Image
-                    src="https://images.unsplash.com/photo-1536240478700-b869070f9279?q=80&w=800&auto=format&fit=crop"
+                    src="https://i.pinimg.com/1200x/4d/0a/9e/4d0a9e70871124f8efe9fe13bde42d0d.jpg"
                     alt="Projet Audiovisuel"
                     fill
                     className="object-cover group-hover:scale-110 transition-transform duration-700"
