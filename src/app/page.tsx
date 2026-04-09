@@ -390,7 +390,7 @@ export default function Home() {
             </a>
           </div>
           <p className="text-zinc-500 text-sm">
-            © {new Date().getFullYear()} NDO AYO JACKY. Fait avec passion.
+            © {new Date().getFullYear()} NDO AYO JACKY. Mon espace professionnelle.
           </p>
         </motion.footer>
       </div>
