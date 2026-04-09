@@ -108,7 +108,7 @@ export default function Home() {
               <div className="relative w-full h-full rounded-full overflow-hidden bg-zinc-800 border-2 border-zinc-700/50 shadow-2xl p-1 group-hover:p-2 transition-all duration-500">
                 <div className="w-full h-full rounded-full overflow-hidden relative bg-zinc-900 flex items-center justify-center">
                   <Image
-                    src="https://i.pinimg.com/1200x/0b/2e/98/0b2e988dcec7af0209aa42d919c6967b.jpg"
+                    src="/profile.jpg"
                     alt="NDO AYO JACKY"
                     fill
                     className="object-cover object-top grayscale-[30%] hover:grayscale-0 transition-all duration-700 hover:scale-110"
